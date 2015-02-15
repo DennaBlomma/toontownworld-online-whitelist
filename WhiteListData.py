@@ -13484,6 +13484,7 @@ WHITELIST = [
     'fending',
     'feng',
     'feral',
+    'ferb',
     'ferdie',
     'fern',
     "fern's",
