@@ -1,1 +1,1 @@
-python -m whitelist_tool
+ppython -m whitelist_tool
