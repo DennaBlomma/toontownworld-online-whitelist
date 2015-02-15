@@ -27481,6 +27481,7 @@ WHITELIST = [
     'reeling',
     'reels',
     'reepicheep',
+    'reese',
     'ref',
     'refer',
     'refered',
