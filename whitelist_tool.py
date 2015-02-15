@@ -28,7 +28,7 @@ def acceptWord():
 def saveChanges():
     print 'Saving the whitelist...'
 
-    with open('toontown/chat/WhiteListData.py', 'w') as f:
+    with open('WhiteListData.py', 'w') as f:
         f.write('WHITELIST = [\n')
 
         LOCAL_LIST.sort()
