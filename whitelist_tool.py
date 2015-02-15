@@ -1,5 +1,5 @@
 import os
-from toontown.chat import WhiteListData
+import WhiteListData
 
 
 def acceptWord():
